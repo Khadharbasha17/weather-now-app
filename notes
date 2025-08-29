@@ -1,0 +1,8 @@
+
+## Setup
+- Clone the repo: `git clone https://github.com/Khadharbasha17/weather-now-app.git`
+- Install packages: `npm install`
+- Run locally: `npm start`
+
+## Environment Variables
+- Create a `.env` file in the root folder with:
